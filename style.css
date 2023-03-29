@@ -1,0 +1,59 @@
+body{
+     background: linear-gradient(skyblue, white);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     }
+h1{
+   border-top-style: double;
+   border-bottom-style: double;
+   border-left-style: double;
+   border-right-style: double;
+   text-shadow: 0px 0px 5px grey, 0px -5px 5px black;
+   }
+
+img{
+   border-radius: 8px;
+   }
+
+h2{
+   border-top-style: double;
+   border-bottom-style: double;
+   box-shadow: 5px 5px 5px black;
+   }
+
+h3{
+   font-family: TimesNewRoman, sans-serif;
+   }
+
+#p1{
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    }
+
+h4{
+   font-family: TimesNewRoman, sans-serif;
+   }
+
+.li1{
+     font-style: italic;
+     font-weight: bold;
+     }
+
+h5{
+   font-family: TimesNewRoman, sans-serif;
+   }
+
+.li2{
+     font-style: italic;
+     font-weight: bold;
+     }
+
+#p2{
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;}
+#p3{
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;}
